@@ -1,4 +1,4 @@
-import { IconProps } from 'src/types/global';
+import { IconProps } from "@/src/types/global";
 
 export default function LogoInvert({ className }: IconProps) {
   return (

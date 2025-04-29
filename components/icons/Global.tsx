@@ -1,8 +1,6 @@
-interface GlobalProps {
-  className?: string;
-}
+import { IconProps } from "@/src/types/global";
 
-export default function Global({ className }: GlobalProps) {
+export default function Global({ className }: IconProps) {
   return (
     <svg
       className={className}

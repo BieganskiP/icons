@@ -1,4 +1,4 @@
-import { IconProps } from 'src/types/global';
+import { IconProps } from "@/src/types/global";
 
 export default function Windy({ className }: IconProps) {
   return (
@@ -12,7 +12,7 @@ export default function Windy({ className }: IconProps) {
     >
       <mask
         id="mask0_3058_6715"
-        style={{ maskType: 'alpha' }}
+        style={{ maskType: "alpha" }}
         maskUnits="userSpaceOnUse"
         x="0"
         y="0"
