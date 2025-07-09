@@ -99,6 +99,7 @@ import CrossedStar from "./CrossedStar";
 import ShieldTick from "./ShieldTick";
 import CalendarSearch from "./CalendarSearch";
 import Forbidden from "./Forbidden";
+import Alarm from "./Alarm";
 
 export {
   Airplane,
@@ -202,4 +203,5 @@ export {
   ShieldTick,
   CalendarSearch,
   Forbidden,
+  Alarm,
 };
