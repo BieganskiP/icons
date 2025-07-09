@@ -97,6 +97,8 @@ import ArchiveTick from "./ArchiveTick";
 import Bubble from "./Bubble";
 import CrossedStar from "./CrossedStar";
 import ShieldTick from "./ShieldTick";
+import CalendarSearch from "./CalendarSearch";
+import Forbidden from "./Forbidden";
 
 export {
   Airplane,
@@ -198,4 +200,6 @@ export {
   Bubble,
   CrossedStar,
   ShieldTick,
+  CalendarSearch,
+  Forbidden,
 };
