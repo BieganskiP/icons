@@ -100,6 +100,10 @@ import ShieldTick from "./ShieldTick";
 import CalendarSearch from "./CalendarSearch";
 import Forbidden from "./Forbidden";
 import Alarm from "./Alarm";
+import Network from "./Network";
+import Board from "./Board";
+import Helmet from "./Helmet";
+import City from "./City";
 
 export {
   Airplane,
@@ -204,4 +208,8 @@ export {
   CalendarSearch,
   Forbidden,
   Alarm,
+  Network,
+  Board,
+  Helmet,
+  City,
 };
