@@ -104,6 +104,7 @@ import Network from "./Network";
 import Board from "./Board";
 import Helmet from "./Helmet";
 import City from "./City";
+import Health from "./Health";
 
 export {
   Airplane,
@@ -212,4 +213,5 @@ export {
   Board,
   Helmet,
   City,
+  Health,
 };
