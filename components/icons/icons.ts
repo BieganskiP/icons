@@ -105,6 +105,9 @@ import Board from "./Board";
 import Helmet from "./Helmet";
 import City from "./City";
 import Health from "./Health";
+import Tree from "./Tree";
+import Pharagraphspacing from "./Pharagraphspacing";
+import HeartCircle from "./HeartCircle";
 
 export {
   Airplane,
@@ -214,4 +217,7 @@ export {
   Helmet,
   City,
   Health,
+  Tree,
+  Pharagraphspacing,
+  HeartCircle,
 };
