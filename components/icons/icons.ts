@@ -109,6 +109,10 @@ import Tree from "./Tree";
 import Pharagraphspacing from "./Pharagraphspacing";
 import HeartCircle from "./HeartCircle";
 import Global from "./Global";
+import MagicStar from "./MagicStar";
+import Ranking from "./Ranking";
+import UserTick from "./UserTick";
+import Woman from "./Woman";
 
 export {
   Airplane,
@@ -222,4 +226,8 @@ export {
   Pharagraphspacing,
   HeartCircle,
   Global,
+  MagicStar,
+  Ranking,
+  UserTick,
+  Woman,
 };
