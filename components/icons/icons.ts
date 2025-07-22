@@ -108,6 +108,7 @@ import Health from "./Health";
 import Tree from "./Tree";
 import Pharagraphspacing from "./Pharagraphspacing";
 import HeartCircle from "./HeartCircle";
+import Global from "./Global";
 
 export {
   Airplane,
@@ -220,4 +221,5 @@ export {
   Tree,
   Pharagraphspacing,
   HeartCircle,
+  Global,
 };
