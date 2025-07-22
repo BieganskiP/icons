@@ -113,6 +113,19 @@ import MagicStar from "./MagicStar";
 import Ranking from "./Ranking";
 import UserTick from "./UserTick";
 import Woman from "./Woman";
+import Bill from "./Bill";
+import BrifecaseTick from "./BrifecaseTick";
+import Buliding from "./Buliding";
+import Clock from "./Clock";
+import Like from "./Like";
+import LikeShapes from "./LikeShapes";
+import Medal from "./Medal";
+import Profile2user from "./Profile2user";
+import QuoteUpCircle from "./QuoteUpCircle";
+import Send2 from "./Send2";
+import Sms from "./Sms";
+import TickCircle from "./TickCircle";
+import Watch from "./Watch";
 
 export {
   Airplane,
@@ -230,4 +243,17 @@ export {
   Ranking,
   UserTick,
   Woman,
+  Bill,
+  BrifecaseTick,
+  Buliding,
+  Clock,
+  Like,
+  LikeShapes,
+  Medal,
+  Profile2user,
+  QuoteUpCircle,
+  Send2,
+  Sms,
+  TickCircle,
+  Watch,
 };
