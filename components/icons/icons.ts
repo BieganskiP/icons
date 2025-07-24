@@ -126,6 +126,11 @@ import Send2 from "./Send2";
 import Sms from "./Sms";
 import TickCircle from "./TickCircle";
 import Watch from "./Watch";
+import AirplaneTakeOff from "./AirplaneTakeOff";
+import Maximize4 from "./Maximize4";
+import RepeatCircle from "./RepeatCircle";
+import Convert3dCube from "./Convert3dCube";
+import Eye from "./Eye";
 
 export {
   Airplane,
@@ -256,4 +261,9 @@ export {
   Sms,
   TickCircle,
   Watch,
+  AirplaneTakeOff,
+  Maximize4,
+  RepeatCircle,
+  Convert3dCube,
+  Eye,
 };
