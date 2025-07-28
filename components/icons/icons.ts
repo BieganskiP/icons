@@ -131,6 +131,10 @@ import Maximize4 from "./Maximize4";
 import RepeatCircle from "./RepeatCircle";
 import Convert3dCube from "./Convert3dCube";
 import Eye from "./Eye";
+import MessageQuestion from "./MessageQuestion";
+import ReceiptEdit from "./ReceiptEdit";
+import Timer from "./Timer";
+import Verify from "./Verify";
 
 export {
   Airplane,
@@ -266,4 +270,8 @@ export {
   RepeatCircle,
   Convert3dCube,
   Eye,
+  MessageQuestion,
+  ReceiptEdit,
+  Timer,
+  Verify,
 };
